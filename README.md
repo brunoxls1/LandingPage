@@ -1,2 +1,3 @@
 # LandingPage
-Landing Page em processo de criação, utilizando apenas HTML e CSS
+Finalizado o Projeto de Landing Page, utilizando apenas CSS e HTML.
+
