@@ -152,8 +152,9 @@
 
 .footer a {
   color: var(--primary-color);
+  
 }
-a:hover {
+.footer:hover{
   text-decoration: underline;
 }
 
